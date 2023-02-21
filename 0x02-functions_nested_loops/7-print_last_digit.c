@@ -2,7 +2,7 @@
 /**
  * print_last_digit - prints the last digit of a numer
  * @n: digit to find the last place of.
- * @r: An integer input
+ * $r: An integer input
  * Return: The last digit
  */
 int print_last_digit(int n)
