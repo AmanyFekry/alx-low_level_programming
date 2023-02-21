@@ -3,9 +3,8 @@
  * main - check the code
  * @n: digit to find the last place of.
  * @r: An integer input
- * Description: This function prints the last digit of a number
+ * print_last_digit - prints the last digit of a numer.
  * Return: The last digit
- * Return: Always 0.
  */
 int print_last_digit(int r)
 {
