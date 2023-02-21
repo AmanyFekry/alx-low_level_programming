@@ -1,9 +1,11 @@
 #include "main.h"
 /**
+ * main - check the code
  * @n: digit to find the last place of.
  * @r: An integer input
  * Description: This function prints the last digit of a number
  * Return: The last digit
+ * Return: Always 0.
  */
 int print_last_digit(int r)
 {
